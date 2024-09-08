@@ -119,7 +119,7 @@ Here’s what the data tells us:
 2. **Monthly Captures**: The app analyzes monthly crocodile capture data over the past 20 years, highlighting patterns in behavior and activity with **March and April** being the most dangerous months for encounters..
 3. **Species Analysis**: Insights into the types of crocodiles captured, identifying which species pose the most significant risks.
 4. **Temperature and Activity Trends**: Contrary to popular belief, **temperature has little effect** on crocodile activity. Crocodiles remain active all year debunking the myth that higher temperatures affect their activity.
-5. **Risk Analysis**:Using historical data and machine learning, we assess the risk of encountering a crocodile, classifying it as low, moderate, high, or very high. Based on the risk level, we generate safety alerts, advising caution or notifying authorities if necessary
+5. **Risk Analysis**: Using historical data and machine learning, we assess the risk of encountering a crocodile, classifying it as low, moderate, high, or very high. Based on the risk level, we generate safety alerts, advising caution or notifying authorities if necessary
 
 ### 📈 Usage
 

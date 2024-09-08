@@ -111,7 +111,7 @@ While some government data on crocodile sightings is available, it is limited. W
 
 ### 🔍 Data Insights
 
-![Data Image](./images/data visualisation/data1.png)
+![Data Visualization](./images/data%20visualisation/data1.png)
 
 Here’s what the data tells us:
 

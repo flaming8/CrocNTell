@@ -59,7 +59,7 @@ Croc N Tell is a mobile app designed to improve public safety by providing real-
 
 🎬 Watch the project video [here](notion://www.notion.so/alishak/link).
 
-📱 Play with the prototype [here](notion://www.notion.so/alishak/link).
+📱 Play with the prototype [here](https://www.figma.com/proto/WXtBulMF9Ws6HPYayTiFeg/CrocSite?node-id=641-2&node-type=CANVAS&t=YVDw6JMPd2msPjrH-1&scaling=scale-down&content-scaling=fixed&page-id=1669%3A162202&starting-point-node-id=633%3A67&show-proto-sidebar=1).
 
 ### Overview
 

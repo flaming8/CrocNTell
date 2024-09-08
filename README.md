@@ -75,9 +75,9 @@ The app stands out for its ease of use and accessibility. Users can submit repor
 
 ### 🌟Key Features
 
-🗺️ **Heat Maps**
+🗺️ **Croc Maps**
 
-Explore dynamic heat maps showing real-time and historical crocodile sightings across the Northern Territory. Our app predicts potential hotspots based on weather patterns and user reports, giving you the power to see where crocodile activity is most likely. You can even filter data by source, such as government reports or community sightings, making it easy to stay informed with trusted updates.
+Explore dynamic croc maps showing real-time and historical crocodile sightings across the Northern Territory. Our app predicts potential hotspots based on weather patterns and user reports, giving you the power to see where crocodile activity is most likely. You can even filter data by source, such as government reports or community sightings, making it easy to stay informed with trusted updates.
 
 📸 **Report Sighting – Contribute Without Hassle**
 
@@ -113,7 +113,7 @@ While some government data on crocodile sightings is available, it is limited. W
 
 Here’s what the data tells us:
 
-1. **Crocodile Distribution**: Heat maps reveal where crocodiles are most prevalent across the Northern Territory.
+1. **Crocodile Distribution**: Croc maps reveal where crocodiles are most prevalent across the Northern Territory.
 2. **Monthly Captures**: The app analyzes monthly crocodile capture data over the past 20 years, highlighting patterns in behavior and activity with **March and April** being the most dangerous months for encounters..
 3. **Species Analysis**: Insights into the types of crocodiles captured, identifying which species pose the most significant risks.
 4. **Temperature and Activity Trends**: Contrary to popular belief, **temperature has little effect** on crocodile activity. Crocodiles remain active all year debunking the myth that higher temperatures affect their activity.

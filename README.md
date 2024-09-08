@@ -99,7 +99,8 @@ Download comprehensive monthly reports that summarize all crocodile sightings an
 
 We’ve built Croc N Tell with accessibility at its core. The app requires no login, making it easier for everyone to access critical safety information and contribute reports. Whether you’re an elderly user or someone new to technology, you can navigate the app effortlessly and participate in improving community safety.
 
-[Images that best captures of the prototype]
+![Prototype Image](./images/prototype/prototype.png)
+
 
 # 📊 Data Story
 

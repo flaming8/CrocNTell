@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/sarah-mullins-b57910327/" target="_blank">🦦Sarah Mullins</a></td>
-    <td>Engineer</td>
+    <td>Mechanical Engineer</td>
     <td>Video Editor</td>
   </tr>
   <tr>

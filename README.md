@@ -76,7 +76,7 @@ The app stands out for its ease of use and accessibility. Users can submit repor
 
 ### 🌟Key Features
 
-🗺️ **Croc Maps**
+🗺️ **Crocs Maps**
 
 Explore dynamic croc maps showing real-time and historical crocodile sightings across the Northern Territory. Our app predicts potential hotspots based on weather patterns and user reports, giving you the power to see where crocodile activity is most likely. You can even filter data by source, such as government reports or community sightings, making it easy to stay informed with trusted updates.
 
@@ -100,8 +100,8 @@ Download comprehensive monthly reports that summarize all crocodile sightings an
 
 We’ve built Croc N Tell with accessibility at its core. The app requires no login, making it easier for everyone to access critical safety information and contribute reports. Whether you’re an elderly user or someone new to technology, you can navigate the app effortlessly and participate in improving community safety.
 
-![Prototype Image](./images/prototype/prototype.png)
-
+![Prototype Image](./images/prototype/proto1.png)
+![Prototype Image](./images/prototype/proto2.png)
 
 # 📊 Data Story
 

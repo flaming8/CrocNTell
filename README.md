@@ -128,3 +128,7 @@ Here’s what the data tells us:
 By allowing users to submit photos, videos, and detailed reports, CrocNTell improves data accuracy. Sighting reports are flagged for reliability based on the amount of information provided—those with photos, videos, timestamps, and locations are considered highly reliable.
 
 We are also integrating **satellite technology** to track crocodile movements in real time. Satellites have successfully been used to monitor the behavior and migration patterns of other wildlife, such as **elephants, whales**, and **sharks**, allowing us to adopt these methods to improve public safety and provide more accurate **crocodile activity alerts**.
+
+
+### 💚 We support Women in STEM
+![Team photo](https://raw.githubusercontent.com/flaming8/CrocNTell/main/images/IMG_5462.jpeg)

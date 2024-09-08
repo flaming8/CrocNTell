@@ -107,7 +107,7 @@ We’ve built Croc N Tell with accessibility at its core. The app requires no lo
 
 ### Overview
 
-While some government data on crocodile sightings is available, it is limited. We leverage this existing data to gain insights into trends while developing a solution to gather more comprehensive data through user reports. Croc N Tell fills the gaps by encouraging users to report sightings, improving the overall quality and coverage of crocodile data.
+While some government data on crocodile sightings is available, it is limited. We leverage this existing data to gain insights into trends while developing a solution to gather more comprehensive data through user reports. Croc N Tell fills the gaps by encouraging users to report sightings and integrating satellite technology, improving the overall quality and coverage of crocodile data.
 
 ### 🔍 Data Insights
 

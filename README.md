@@ -53,9 +53,9 @@
 
 This project was created for the GovHack 2024 challenge [Crocodile Watch: Enhancing Public Safety](https://hackerspace.govhack.org/challenges/crocodile_watch_enhancing_public_safety) by the Northern Territory Government.
 
-Croc N Tell is a mobile app designed to improve public safety by providing real-time updates on crocodile sightings, predicted hotspots, and the ability for users to report their own sightings with ease. Our goal is to raise awareness and protect communities through accessible, crowd-sourced data and trusted government sources.
+CrocNTell is a mobile app designed to improve public safety by providing real-time updates on crocodile sightings, predicted hotspots, and the ability for users to report their own sightings with ease. Our goal is to raise awareness and protect communities through accessible, crowd-sourced data and trusted government sources.
 
-**Croc N Tell** is a mobile app designed to enhance public safety by providing **real-time updates** on crocodile sightings, **predicted hotspots**, and allowing users to **easily report** their own sightings. Our mission is to empower communities by providing access to **crowd-sourced** and **trusted data** from government sources, fostering awareness and keeping people safe in crocodile-prone areas.
+**CrocNTell** is a mobile app designed to enhance public safety by providing **real-time updates** on crocodile sightings, **predicted hotspots**, and allowing users to **easily report** their own sightings. Our mission is to empower communities by providing access to **crowd-sourced** and **trusted data** from government sources, fostering awareness and keeping people safe in crocodile-prone areas.
 
 🎬 Watch the project video [here](notion://www.notion.so/alishak/link).
 
@@ -65,12 +65,12 @@ Croc N Tell is a mobile app designed to improve public safety by providing real-
 
 The Northern Territory is known for its rich outback, tropical towns, and ancient Aboriginal culture, making it an ideal destination in Australia. However, it’s also home to **over 100,000 saltwater crocodiles**, up from just 3,000 in the 1970s. With **five crocodiles per kilometre** of waterway, these **apex predators**, which can live up to 70 years and grow over 7 meters long, pose a serious threat to local communities and tourists. Between 2005 and 2018, there were 17 reported crocodile-related fatalities, including a tragic incident in 2024 when a young girl was fatally attacked near Mango Creek.
 
-**Croc N Tell** provides the tools to **navigate the Northern Territory safely**, offering **real-time data** on crocodile locations, and an intuitive platform for **reporting sightings**. By providing reliable and easy-to-access information, our goal is to increase awareness and **reduce the risks** associated with crocodile encounters.
+**CrocNTell** provides the tools to **navigate the Northern Territory safely**, offering **real-time data** on crocodile locations, and an intuitive platform for **reporting sightings**. By providing reliable and easy-to-access information, our goal is to increase awareness and **reduce the risks** associated with crocodile encounters.
 
 ### 💡 Solution
 ![App Logo](./images/logo/resized_logo.png)
 
-Croc N Tell is a mobile app designed to provide real-time information on crocodile sightings, empowering communities to stay safe and informed. It allows users to both access vital data and contribute by reporting their own crocodile encounters, creating a community-driven platform for safety.
+CrocNTell is a mobile app designed to provide real-time information on crocodile sightings, empowering communities to stay safe and informed. It allows users to both access vital data and contribute by reporting their own crocodile encounters, creating a community-driven platform for safety.
 
 The app stands out for its ease of use and accessibility. Users can submit reports without the hassle of signing in, making it particularly suitable for all age groups, including the elderly. This design choice ensures quick reporting and broad participation in crocodile awareness efforts. The interface is color-coded in green and orange to represent crocodiles and the Northern Territory, respectively.
 
@@ -86,7 +86,7 @@ We’ve made reporting a breeze! No sign-in is required—anyone can quickly sub
 
 📚 **Educational Content – Learn and Stay Safe**
 
-Knowledge is power, and we provide all the resources you need to stay safe. Croc N Tell includes educational content like safety tips, fascinating crocodile facts, and interactive quizzes to test your knowledge. By learning more about these apex predators, you can better protect yourself and your community. Plus, taking the quiz can help improve your reporting accuracy, making your contributions more valuable.
+Knowledge is power, and we provide all the resources you need to stay safe. CrocNTell includes educational content like safety tips, fascinating crocodile facts, and interactive quizzes to test your knowledge. By learning more about these apex predators, you can better protect yourself and your community. Plus, taking the quiz can help improve your reporting accuracy, making your contributions more valuable.
 
 🚨 **Real-Time Alerts**
 
@@ -98,7 +98,7 @@ Download comprehensive monthly reports that summarize all crocodile sightings an
 
 ♿ **Accessibility Features – Open to Everyone**
 
-We’ve built Croc N Tell with accessibility at its core. The app requires no login, making it easier for everyone to access critical safety information and contribute reports. Whether you’re an elderly user or someone new to technology, you can navigate the app effortlessly and participate in improving community safety.
+We’ve built CrocNTell with accessibility at its core. The app requires no login, making it easier for everyone to access critical safety information and contribute reports. Whether you’re an elderly user or someone new to technology, you can navigate the app effortlessly and participate in improving community safety.
 
 ![Prototype Image](./images/prototype/proto1.png)
 ![Prototype Image](./images/prototype/proto2.png)
@@ -107,7 +107,7 @@ We’ve built Croc N Tell with accessibility at its core. The app requires no lo
 
 ### Overview
 
-While some government data on crocodile sightings is available, it is limited. We leverage this existing data to gain insights into trends while developing a solution to gather more comprehensive data through user reports. Croc N Tell fills the gaps by encouraging users to report sightings and integrating satellite technology, improving the overall quality and coverage of crocodile data.
+While some government data on crocodile sightings is available, it is limited. We leverage this existing data to gain insights into trends while developing a solution to gather more comprehensive data through user reports. CrocNTell fills the gaps by encouraging users to report sightings and integrating satellite technology, improving the overall quality and coverage of crocodile data.
 
 ### 🔍 Data Insights
 
@@ -123,8 +123,8 @@ Here’s what the data tells us:
 
 ### 📈 Usage
 
-**Croc N Tell** leverages **open data** from the Northern Territory Government to provide **insights** and **predictive trends**about crocodile activity. In addition to government data, the app collects **crowd-sourced reports** from users and utilizes **satellite imagery** to offer a comprehensive view of crocodile movements.
+**CrocNTell** leverages **open data** from the Northern Territory Government to provide **insights** and **predictive trends**about crocodile activity. In addition to government data, the app collects **crowd-sourced reports** from users and utilizes **satellite imagery** to offer a comprehensive view of crocodile movements.
 
-By allowing users to submit photos, videos, and detailed reports, Croc N Tell improves data accuracy. Sighting reports are flagged for reliability based on the amount of information provided—those with photos, videos, timestamps, and locations are considered highly reliable.
+By allowing users to submit photos, videos, and detailed reports, CrocNTell improves data accuracy. Sighting reports are flagged for reliability based on the amount of information provided—those with photos, videos, timestamps, and locations are considered highly reliable.
 
 We are also integrating **satellite technology** to track crocodile movements in real time. Satellites have successfully been used to monitor the behavior and migration patterns of other wildlife, such as **elephants, whales**, and **sharks**, allowing us to adopt these methods to improve public safety and provide more accurate **crocodile activity alerts**.

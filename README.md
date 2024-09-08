@@ -68,7 +68,7 @@ The Northern Territory is known for its rich outback, tropical towns, and ancien
 **Croc N Tell** provides the tools to **navigate the Northern Territory safely**, offering **real-time data** on crocodile locations, and an intuitive platform for **reporting sightings**. By providing reliable and easy-to-access information, our goal is to increase awareness and **reduce the risks** associated with crocodile encounters.
 
 ### 💡Solution
-![App Logo](./images/logo/rsz_app_logo_nobg.png)
+![App Logo](.images/logo/resized_logo.png)
 
 Croc N Tell is a mobile app designed to provide real-time information on crocodile sightings, empowering communities to stay safe and informed. It allows users to both access vital data and contribute by reporting their own crocodile encounters, creating a community-driven platform for safety.
 

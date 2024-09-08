@@ -67,14 +67,14 @@ The Northern Territory is known for its rich outback, tropical towns, and ancien
 
 **Croc N Tell** provides the tools to **navigate the Northern Territory safely**, offering **real-time data** on crocodile locations, and an intuitive platform for **reporting sightings**. By providing reliable and easy-to-access information, our goal is to increase awareness and **reduce the risks** associated with crocodile encounters.
 
-### 💡Solution
+### 💡 Solution
 ![App Logo](./images/logo/resized_logo.png)
 
 Croc N Tell is a mobile app designed to provide real-time information on crocodile sightings, empowering communities to stay safe and informed. It allows users to both access vital data and contribute by reporting their own crocodile encounters, creating a community-driven platform for safety.
 
 The app stands out for its ease of use and accessibility. Users can submit reports without the hassle of signing in, making it particularly suitable for all age groups, including the elderly. This design choice ensures quick reporting and broad participation in crocodile awareness efforts. The interface is color-coded in green and orange to represent crocodiles and the Northern Territory, respectively.
 
-### 🌟Key Features
+### 🌟 Key Features
 
 🗺️ **Crocs Maps**
 
@@ -121,7 +121,7 @@ Here’s what the data tells us:
 4. **Temperature and Activity Trends**: Contrary to popular belief, **temperature has little effect** on crocodile activity. Crocodiles remain active all year debunking the myth that higher temperatures affect their activity.
 5. **Risk Analysis**: Using historical data and machine learning, we assess the risk of encountering a crocodile, classifying it as low, moderate, high, or very high. Based on the risk level, we generate safety alerts, advising caution or notifying authorities if necessary
 
-### 📈 Usage
+### 📈 Usage
 
 **Croc N Tell** leverages **open data** from the Northern Territory Government to provide **insights** and **predictive trends**about crocodile activity. In addition to government data, the app collects **crowd-sourced reports** from users and utilizes **satellite imagery** to offer a comprehensive view of crocodile movements.
 

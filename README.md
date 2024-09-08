@@ -57,7 +57,7 @@ CrocNTell is a mobile app designed to improve public safety by providing real-ti
 
 **CrocNTell** is a mobile app designed to enhance public safety by providing **real-time updates** on crocodile sightings, **predicted hotspots**, and allowing users to **easily report** their own sightings. Our mission is to empower communities by providing access to **crowd-sourced** and **trusted data** from government sources, fostering awareness and keeping people safe in crocodile-prone areas.
 
-🎬 Watch the project video [here](https://youtu.be/4zW-l59oc3U).
+🎬 Watch the project video [here](https://youtu.be/1uIWFQ03gr8).
 
 📱 Play with the prototype [here](https://www.figma.com/proto/WXtBulMF9Ws6HPYayTiFeg/CrocSite?node-id=633-67&node-type=CANVAS&t=YVDw6JMPd2msPjrH-1&scaling=scale-down&content-scaling=fixed&page-id=1669%3A162202&starting-point-node-id=633%3A67&show-proto-sidebar=1).
 
